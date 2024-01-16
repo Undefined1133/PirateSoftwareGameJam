@@ -1,0 +1,6 @@
+# Unity specific ignores
+*.sln
+*.csproj
+Library/
+Temp/
+Obj/
